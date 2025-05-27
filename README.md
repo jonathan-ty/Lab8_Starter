@@ -10,4 +10,4 @@ How are graceful degradation and service workers related?
 
 ![Progressive Web Application](./assets/images/icons/pwa.png)
 
-[Link to GitHub Page]()
+[Link to GitHub Page](https://jonathan-ty.github.io/Lab8_Starter/)
